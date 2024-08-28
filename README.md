@@ -9,7 +9,10 @@ This Tampermonkey script automatically converts binary text to readable text on 
 - **Dynamic Content Handling**: Runs every second to process new or dynamically loaded content.
 - **URL Specific**: Applies only to Facebook posts URLs with the format `https://www.facebook.com/*/posts/*`.
 
-## Installation
+## Auto Installation
+Install from here: https://greasyfork.org/en/scripts/505606-convert-binary-to-text-on-facebook-posts
+
+## Manual Installation
 
 To use this script, follow these steps:
 
